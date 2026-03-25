@@ -17,9 +17,6 @@ function onEdit(e) {
   const masterData = master.getDataRange().getValues();
   masterData.shift();
 
-  // =============================
-  // 🔹 COLUMN MAP (16 COLUMNS)
-  // =============================
 
   const orderIdCol = 1;
   const orderDateCol = 2;
