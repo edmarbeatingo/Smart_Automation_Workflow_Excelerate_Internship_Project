@@ -1,5 +1,3 @@
-# Smart_Automation_Workflow_Excelerate_Internship_Project
-
 # Sales Order Automation System
 
 ## Overview
@@ -29,7 +27,7 @@ The system follows a **multi-channel, trigger-based architecture**:
 
 ---
 
-## 🔄 End-to-End Workflow
+## End-to-End Workflow
 
 Customer Order → Trigger Activation → Data Extraction → Validation →
 Financial Computation → Order ID Generation → Consolidation → Dashboard Reporting
