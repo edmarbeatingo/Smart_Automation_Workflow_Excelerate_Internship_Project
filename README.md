@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Sales Order Automation System** is an end-to-end automation solution that processes sales orders from multiple channels, **Email, Phone, and Google Forms**, and transforms them into a **validated, centwdralized, and report-ready dataset**.
+The **Sales Order Automation System** is an end-to-end automation solution that processes sales orders from multiple channels, **Email, Phone Call, and Google Forms**, and transforms them into a **validated, centralized, and report-ready dataset**.
 
 This system replaces manual data entry, validation, and reporting with a fully automated workflow powered by **Google Apps Script**, improving efficiency, accuracy, and scalability.
 
